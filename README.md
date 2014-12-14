@@ -9,10 +9,9 @@ My personal website: [Tim Scully](http://timscully.co.uk)
 Code examples
 ---------------
 
-|   [Rewardr](http://github.com/hatstephens/FATS_rewardr) 	|   [Badgr](http://github.com/scully87/FATS_badgr)    | [Timstagram](http://github.com/Scully87/TIMstagram) | [Chitter]
-| ------------- | ------------ |  ----------  | ----------- |
+|[Rewardr](http://github.com/hatstephens/FATS_rewardr)|[Badgr](http://github.com/scully87/FATS_badgr)|[Timstagram](http://github.com/Scully87/TIMstagram)|
+| ------------- | ------------ |  ----------  |
 |	FATS Inc. are proud to present their first product - Rewardr. This is a corporate reward system which forms part of our Final Project at Makers Academy. Rewardr allows Managers to issue their staff with a Reward in the forms of a badge via a Web App built with Ruby on Rails. It was designed to be simple to use for both Managers and Employees. It is not a social media site for the office. Employees log in and see their Dashboard which lists personal stats and a few company stats too. Managers have an additional page where they can select from a list of Rewards or even name their own. Live on Heroku - https://fast-meadow-6272.herokuapp.com|Badgr was the second project from FATS Inc as part of our final project at Makers Academy. Badgr is an cross-platform App built using PhoneGap - HTML, CSS and JavaScript. Parse was used for the database. The design was based around the Yo App, however, when clicking on a friend's name a box appears showing a selection of badge icons for you to send to your friend.[Check out the demo video here!](https://www.youtube.com/watch?v=sUN0YaqLpF8&list=UU1NQjRun26caQPa6D6j3dsg)|Creating an Instgram clone in Rails.Checkout the Link [here](http://pacific-castle-9436.herokuapp.com/)|
-|
 
 Web development
 ----------------
