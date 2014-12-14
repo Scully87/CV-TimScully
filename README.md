@@ -1,4 +1,4 @@
-###(This Repo is Under Development)
+->###(This Repo is Under Development)
 
 Tim Scully
 ===========
@@ -27,7 +27,7 @@ Learned cutting edge coding techniques and best practices from world class devel
 - Software Design
 - Agile and Lean
 
-####A Summary repository of my projects and experiences at Makers Academy can be found [HERE](https://github.com/Scully87/Makers_Academy)
+#####A Summary repository of my projects and experiences at Makers Academy can be found [HERE](https://github.com/Scully87/Makers_Academy)
 
 Work Experience
 ---------------
@@ -44,4 +44,4 @@ More about me
 - linkedIn: [https://www.linkedin.com/pub/tim-scully/a7/31b/b63](https://www.linkedin.com/pub/tim-scully/a7/31b/b63)
 
 
-[Personal Site]:http://timscully.co.uk
+[Personal Site]:http://timscully.co.uk<-
