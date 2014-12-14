@@ -1,5 +1,3 @@
-###(This Repo is Under Development)
-
 Tim Scully
 ===========
 I'm a Junior Front-End Web Developer. Ambition is a wonderful thing, I believe anything is possible.
