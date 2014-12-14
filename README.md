@@ -1,6 +1,6 @@
-->###(This Repo is Under Development)
+###(This Repo is Under Development)
 
-Tim Scully
+-> Tim Scully <-
 ===========
 I'm a Junior Front-End Web Developer. Ambition is a wonderful thing, I believe anything is possible.
 
@@ -44,4 +44,4 @@ More about me
 - linkedIn: [https://www.linkedin.com/pub/tim-scully/a7/31b/b63](https://www.linkedin.com/pub/tim-scully/a7/31b/b63)
 
 
-[Personal Site]:http://timscully.co.uk<-
+[Personal Site]:http://timscully.co.uk
