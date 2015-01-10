@@ -35,11 +35,15 @@ The biggest takeaways from my experience at Tesco would be communication skills 
 More about me
 ---------------
 
-- Email: scully87.ts@googlemail.com
-- Phone: 07884496850
-- Twitter: [@TScully87](https://twitter.com/TScully87)
-- Github: [http://github.com/scully87](http://github.com/scully87)
-- linkedIn: [https://www.linkedin.com/pub/tim-scully/a7/31b/b63](https://www.linkedin.com/pub/tim-scully/a7/31b/b63)
+Links:
+  - Email: scully87.ts@googlemail.com
+  - Phone: 07884496850
+  - Twitter: [@TScully87](https://twitter.com/TScully87)
+  - Github: [http://github.com/scully87](http://github.com/scully87)
+  - linkedIn: [https://www.linkedin.com/pub/tim-scully/a7/31b/b63](https://www.linkedin.com/pub/tim-scully/a7/31b/b63)
+  [Personal Site]:http://timscully.co.uk
 
-
-[Personal Site]:http://timscully.co.uk
+Random Facts:
+  - I used to be #1 in the UK/ #3 in the world at Command and Conquer Tiberian Sun.
+  - I was a local junior tennis champion
+  - I once played Call of Duty for 48 hours straight without sleeping
